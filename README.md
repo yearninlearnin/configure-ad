@@ -11,7 +11,7 @@ This lab outlines the implementation of on premises Active Directory within Azur
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/ziHTBY0.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
