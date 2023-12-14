@@ -1,4 +1,4 @@
-[# configure-ad](https://i.imgur.com/x1ky7pf.png)https://i.imgur.com/x1ky7pf.png<p align="center">
+[# configure-ad]https://i.imgur.com/x1ky7pf.png<p align="center">
 <img src="https://i.imgur.com/x1ky7pf.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
