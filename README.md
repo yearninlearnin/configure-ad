@@ -3,5 +3,5 @@
 </p>
 
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>On-premises Active Directory Deployed in the Cloud using Azure</h1>
 This lab outlines the implementation of Active Directory within Azure.<br />
