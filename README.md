@@ -8,7 +8,7 @@ This lab outlines the implementation of on premises Active Directory within Azur
 ---------------------------------------------------------------------------------------------
 
 <p>
-space reserved for text
+Our end goal of this lab is to use utilize AzureVM to create a couple of environments. One needed for the ActiveDirectory Environment including the domain, and the other to simulate a normal user.
 </p>
 <p>
 <img src="https://i.imgur.com/ziHTBY0.png" height="80%" width="80%" alt="Installation Steps"/>
