@@ -15,7 +15,7 @@ Our end goal of this lab is to use utilize AzureVM to create a couple of environ
 </p>
 <br />
 <p>
-I need to use 2 Virtual Machines. One will act as the Domain Controller, and the other will be the client.
+I need to use 2 Virtual Machines. One will act as the Domain Controller, and the other will be the client as seen below.
 </p>
 <p>
 <img src="https://i.imgur.com/W8XllC5.png" height="80%" width="80%" alt="Installation Steps"/>
