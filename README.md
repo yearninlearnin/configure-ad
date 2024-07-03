@@ -22,10 +22,10 @@ I need to use 2 Virtual Machines. One will act as the Domain Controller, and the
 </p>
 <br />
 <p>
-space reserved for text
+The Domain Controller requires a little tweaking initially. Within AzureVM, I need to configure it to have a static IP instead of dynamic as it will act as a server to house our Active Directory.
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/dZeUwXD.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
