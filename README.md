@@ -29,10 +29,10 @@ The Domain Controller requires a little tweaking initially. Within AzureVM, I ne
 </p>
 <br />
 <p>
-space reserved for text
+To ensure connection between both the Domain controller and my client vm, I had to enable ICMPv4 in the local Windows firewall.
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/Vl4oh7K.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
