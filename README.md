@@ -36,17 +36,17 @@ To ensure connection between both the Domain controller and my client vm, I had 
 </p>
 <br />
 <p>
-space reserved for text
+The installation process of Active Direct begins as well as promoting promoting the server to a domain controller.
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/H1s7H6s.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/J5ydr6C.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
