@@ -62,17 +62,17 @@ Active Directory is now fully installed.
 </p>
 <br />
 <p>
-space reserved for text
+I created some organizational units for the purpose of this lab. One group consists of Admins, and the other Employees. I add my domain admin "Boba Fett" to the admin and later on I will run a script to create a batch of employee accounts.
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/BnNoume.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/FDnbqh7.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
