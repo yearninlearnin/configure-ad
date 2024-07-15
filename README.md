@@ -55,17 +55,16 @@ The installation process of Active Direct begins as well as promoting promoting 
 </p>
 <br />
 <p>
-space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/IEwH7a0.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
-space reserved for text
+Active Directory is now fully installed.
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/yqCuSbr.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
