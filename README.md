@@ -57,7 +57,7 @@ The installation process of Active Direct begins as well as promoting promoting 
 <p>
 </p>
 <p>
-<img src="https://i.imgur.com/IEwH7a0.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
