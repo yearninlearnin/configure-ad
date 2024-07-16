@@ -69,17 +69,15 @@ I created some organizational units for the purpose of this lab. One group consi
 </p>
 <br />
 <p>
-space reserved for text
 </p>
 <p>
 <img src="https://i.imgur.com/FDnbqh7.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
-space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/JAqLUML.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
