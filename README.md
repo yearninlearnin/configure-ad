@@ -81,21 +81,21 @@ I created some organizational units for the purpose of this lab. One group consi
 </p>
 <br />
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/ZG1BOJq.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/eSNsFc1.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/yG4KN49.png" height="80%" width="80%" alt="Installation Steps"/>
