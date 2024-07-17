@@ -95,7 +95,7 @@ I created some organizational units for the purpose of this lab. One group consi
 </p>
 <br />
 <p>
-
+These are the current users with remote access, noting that Boba Fett is an admin now.
 </p>
 <p>
 <img src="https://i.imgur.com/yG4KN49.png" height="80%" width="80%" alt="Installation Steps"/>
