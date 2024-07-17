@@ -112,7 +112,7 @@ This is a script that was built to be used in powershell to generate generic end
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/lx6p6hH.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
