@@ -105,7 +105,7 @@ These are the current users with remote access, noting that Boba Fett is an admi
 This is a script that was built to be used in powershell to generate generic endusers based on a few perameters such name count, name length etc.
 </p>
 <p>
-<img src="https://i.imgur.com/7rLz6yS.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/8t2clhq.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
