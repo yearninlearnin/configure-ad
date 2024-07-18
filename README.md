@@ -109,7 +109,7 @@ This is a script that was built to be used in powershell to generate generic end
 </p>
 <br />
 <p>
-I'll pick a couple of random user account out of the employee pool to simulate the logon process. User nunis.giho will be able to log in successfully but the other user "renin.lofo" will have issues with their password,causes them to get locked out of their account. We will then use Active Directory to unlocked their account and send a prompt for them to update their password upon logging in.
+I'll pick a couple of random user account out of the employee pool to simulate the logon process. User nunis.giho will be able to log in successfully but the other user "renin.lofo" will have issues with their password,causes them to get locked out of their account. We will then use Active Directory to unlock their account and send a prompt for them to update their password upon logging in.
 </p>
 <p>
 <img src="https://i.imgur.com/lx6p6hH.png" height="80%" width="80%" alt="Installation Steps"/>
