@@ -137,7 +137,7 @@ I'll pick a couple of random user account out of the employee pool to simulate t
 </p>
 <br />
 <p>
-space reserved for text
+User renin.lofo has been locked out of their account.
 </p>
 <p>
 <img src="https://i.imgur.com/6X6GrBm.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -147,7 +147,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/SZICSPL.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
