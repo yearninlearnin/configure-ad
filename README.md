@@ -140,7 +140,7 @@ I'll pick a couple of random user account out of the employee pool to simulate t
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/6X6GrBm.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
