@@ -3,7 +3,7 @@
 </p>
 
 
-<h1>On-prem Active Directory Deployed in the Cloud using Microsoft Azure *DOCUMENTATION UPDATED AND COMPLETED*</h1> 
+<h1>On-prem Active Directory Deployed using Microsoft Azure *DOCUMENTATION UPDATED AND COMPLETED*</h1> 
 This lab outlines the implementation of on premises Active Directory within Azure.<br />
 ---------------------------------------------------------------------------------------------
 
