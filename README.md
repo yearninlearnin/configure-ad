@@ -144,17 +144,18 @@ User renin.lofo has been locked out of their account.
 </p>
 <br />
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/SZICSPL.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
-space reserved for text
+Now Im preparing to unlock user renin.lofo's account. Once they log back in, they will be prompted to reset their password.
+  This concludes the lab on configuring Active Directory for user account management.
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/v2IU266.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 <p>
