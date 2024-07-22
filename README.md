@@ -137,7 +137,7 @@ I'll pick a couple of random user account out of the employee pool to simulate t
 </p>
 <br />
 <p>
-User renin.lofo has been locked out of their account.
+This slide simulates user renin.lofo failing to log into their account and after about 5 attempts, this will prompt Active Directory to automatically lock their user account.
 </p>
 <p>
 <img src="https://i.imgur.com/6X6GrBm.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -156,90 +156,6 @@ Now Im preparing to unlock user renin.lofo's account. Once they log back in, the
 </p>
 <p>
 <img src="https://i.imgur.com/v2IU266.png" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
-<p>
-space reserved for text
-</p>
-<p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
